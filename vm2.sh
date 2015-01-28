@@ -1,0 +1,1 @@
+gedit news.txt

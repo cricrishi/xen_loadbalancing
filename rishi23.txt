@@ -1,0 +1,8 @@
+      NAME  STATE   CPU(sec) CPU(%)     MEM(k) MEM(%)  MAXMEM(k) MAXMEM(%) VCPUS NETS NETTX(k) NETRX(k) VBDS   VBD_OO   VBD_RD   VBD_WR  VBD_RSECT  VBD_WSECT SSID
+  Domain-0 -----r       2362    0.0    2931720   72.3   no limit       n/a     4    0        0        0    0        0        0        0          0          0    0
+   ubuntu1 --b---         52    0.0     528336   13.0     528384      13.0     1    1      470       42    1        0    23662     3088    1022798     152984    0
+   ubuntu2 --b---         86    0.0     528336   13.0     528384      13.0     1    1     3711      100    1        0    66375     6138    2915054     355552    0
+      NAME  STATE   CPU(sec) CPU(%)     MEM(k) MEM(%)  MAXMEM(k) MAXMEM(%) VCPUS NETS NETTX(k) NETRX(k) VBDS   VBD_OO   VBD_RD   VBD_WR  VBD_RSECT  VBD_WSECT SSID
+  Domain-0 -----r       2363   38.5    2931720   72.3   no limit       n/a     4    0        0        0    0        0        0        0          0          0    0
+   ubuntu1 --b---         52    0.1     528336   13.0     528384      13.0     1    1      470       42    1        0    23662     3090    1022798     153064    0
+   ubuntu2 --b---         86    0.3     528336   13.0     528384      13.0     1    1     3711      100    1        0    66376     6138    2915062     355552    0

@@ -1,0 +1,27 @@
+The hackers who infiltrated Sony Pictures Entertainment’s computer servers have threatened to attack an American news media organization, according to an FBI bulletin obtained by The Intercept.
+
+The threat against the unnamed news organization by the Guardians of Peace, the hacker group that has claimed credit for the Sony attack, “may extend to other such organizations in the near future,” according to a Joint Intelligence Bulletin of the FBI and the Department of Homeland Security obtained by The Intercept.
+
+Referring to Sony only as “USPER1”and the news organization as “USPER2,” the Joint Intelligence Bulletin, dated Dec. 24 and marked For Official Use Only, states that its purpose is “to provide information on the late-November 2014 cyber intrusion targeting USPER1 and related threats concerning the planned release of the movie, ‘The Interview.’ Additionally, these threats have extended to USPER2 —a news media organization—and may extend to other such organizations in the near future.”
+
+In the bulletin, titled “November 2014 Cyber Intrusion on USPER1 and Related Threats,” The Guardians of Peace threatened to attack other targets on the day after the FBI announcement. “On 20 December,” the bulletin reads, “the [Guardians of Peace] GOP posted Pastebin messages that specifically taunted the FBI and USPER2 for the ‘quality’ of their investigations and implied an additional threat. No specific consequence was mentioned in the posting.”
+
+Pastebin is a Web tool that enables users to upload text anonymously for anyone to read. It is commonly used to share source code and sometimes used by hackers to post stolen information. The Dec. 20 Pastebin message from Guardians of Peace links to a YouTube video featuring dancing cartoon figures repeatedly saying, “you’re an idiot.”
+
+No mention of a specific news outlet could be found by The Intercept in any of the GOP postings from that date still available online or quoted in news reports.
+
+“While it’s hard to tell how legitimate the threat is, if a news organization is attacked in the same manner Sony was, it could put countless sensitive sources in danger of being exposed—or worse,” Trevor Timm, executive director of the Freedom of the Press Foundation, told The Intercept.
+
+Timm points out, however, that media are already commonly targeted by state-sponsored hackers.“This FBI bulletin is just the latest example that digital security is now a critical press freedom issue, and why news organizations need to make ubiquitous encryption a high priority,” he said.
+
+While the bulletin names neither Sony nor the news organization, it contains an overview that refers specifically to the Guardians of Peace, which shut down Sony’s servers in late November and stole an estimated 100 terabytes of information, including email exchanges among executives that disparaged many of Hollywood’s top stars, the salaries of the company’s 30,000 employees, medical records, and a 25-page list of employee workplace complaints.
+
+On Dec. 16, the Guardians of Peace posted an online message threatening 9/11-style attacks on theaters that showed “The Interview,” a Sony comedy that depicts the fictional assassination of North Korean Supreme Leader Kim Jong-un.
+
+Three days later, the FBI said it had concluded “that the North Korean government is responsible for these actions.” North Korea has repeatedly denied involvement, and several information security professionals have recently said they question North Korea’s involvement in the malware attack.
+
+The Guardians of Peace’s attack on Sony “indicates the increasing willingness of malicious cyber actors to conduct offensive cyber operations against US entities based on perceived injustices or provocations,” the bulletin states. “Though we have seen a wide variety and increasing number of cyberintrusions, the destructive nature of this attack—coupled with its coercive nature—sets it apart.”
+
+FBI spokesman Joshua S. Campbell, in an emailed reply to a request for comment, wrote that the FBI “routinely shares information with the private sector in order to help system administrators guard against cyber intrusions,” but he declined to comment on any details of the threats, or the organizations targeted.
+
+“Unfortunately, we are unable to provide specifics as our intel bulletins are not for public dissemination…,” he wrote.
